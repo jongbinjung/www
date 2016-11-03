@@ -46,6 +46,14 @@ p {
     background-color: $theme-primary;
 }
 
+a.light {
+    color: #FFF;
+    &:hover,
+    &:focus {
+        color: darken(#FFF, 10%);
+    }
+}
+
 .bg-dark {
     background-color: $theme-dark;
     color: white;
