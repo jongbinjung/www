@@ -5,4 +5,3 @@
 # Description: Deploy to gcloud
 
 hugo && firebase deploy
-# gcloud app deploy -v 1
