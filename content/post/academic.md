@@ -6,7 +6,7 @@ date = 2018-03-21
 [<kbd class="item-tag">Download CV</kbd>](/files/cv.pdf)
 
 ## Publications
-1. [Algorithmic decision making in the presence of unmeasured confounding](/files/papers/bsa.pdf)<br \>
+1. [Algorithmic decision making in the presence of unmeasured confounding](https://arxiv.org/abs/1805.01868)<br \>
 with  Ravi Shroff, Avi Feller, and Sharad Goel (Working paper).
 
 1. [Simple rules for complex decisions](https://arxiv.org/abs/1702.04690)<br \>
