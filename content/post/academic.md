@@ -3,7 +3,7 @@ title = "Academic"
 date = 2018-03-21
 +++
 
-[<kbd class="item-tag">Download CV</kbd>](/files/cv.pdf)
+[<kbd class="item-tag">Download CV</kbd>](https://www.dropbox.com/s/apoim64sd02lkmm/resume.pdf)
 
 ## Publications
 1. [Algorithmic decision making in the presence of unmeasured confounding](https://arxiv.org/abs/1805.01868)<br \>
