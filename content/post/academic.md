@@ -6,8 +6,11 @@ date = 2018-03-21
 [<kbd class="item-tag">Download CV</kbd>](https://www.dropbox.com/s/apoim64sd02lkmm/resume.pdf)
 
 ## Publications
+1. [Omitted and included variable bias in tests for disparate impact](https://arxiv.org/abs/1809.05651)<br \>
+with  Sam Corbett-Davies, Ravi Shroff, and Sharad Goel (Working paper).
+
 1. [Algorithmic decision making in the presence of unmeasured confounding](https://arxiv.org/abs/1805.01868)<br \>
-with  Ravi Shroff, Avi Feller, and Sharad Goel (Working paper).
+with  Ravi Shroff, Avi Feller, and Sharad Goel (Under review).
 
 1. [Simple rules for complex decisions](https://arxiv.org/abs/1702.04690)<br \>
 with  Connor Concannon, Ravi Shroff, Sharad Goel, and Daniel G. Goldstein (Under review)<br \>
