@@ -7,28 +7,28 @@ date = 2018-03-21
 
 * **`ggbuildr`**:
 [<kbd class="item-tag">CRAN</kbd>](https://cran.r-project.org/web/packages/ggbuildr)
-[<kbd class="item-tag"><i class="fa fa-github"></i></kbd>](https://github.com/jongbinjung/ggbuildr)<br \>
+[<kbd class="item-tag"><i class="fa fa-github"></i></kbd>](https://github.com/jongbinjung/ggbuildr)\
 Incrementally "build" `ggplot`s (mainly for presentations) in `R`.
 
 * **`rnr`**:
 [<kbd class="item-tag">CRAN</kbd>](https://cran.r-project.org/web/packages/rnr)
-[<kbd class="item-tag"><i class="fa fa-github"></i></kbd>](https://github.com/jongbinjung/rnr)<br \>
+[<kbd class="item-tag"><i class="fa fa-github"></i></kbd>](https://github.com/jongbinjung/rnr)\
 Implementation of Rosenbaum & Rubin sensitivity analysis for unobserved confounding in `R`.
 
 * **`undi`** (alpha):
-[<kbd class="item-tag"><i class="fa fa-github"></i></kbd>](https://github.com/jongbinjung/undi)<br \>
+[<kbd class="item-tag"><i class="fa fa-github"></i></kbd>](https://github.com/jongbinjung/undi)\
 Statistical tests for unjustified disparate impact of policies, implemented in `R`.
 
 
 ## Writing
 
-* [**1024** <kbd class="item-tag">KR</kbd> <i class="fa fa-external-link"></i>](https://blog.jongbin.com)<br \>
+* [**1024** <kbd class="item-tag">KR</kbd> <i class="fa fa-external-link"></i>](https://blog.jongbin.com)\
 Personal blog, mostly to keep track of ideas, hotwos, gotchas, and such.
 
-* [**Daddy and Me** <kbd class="item-tag">KR</kbd> <i class="fa fa-external-link"></i>](https://dam.jongbin.com)<br \>
-Weekend activities with my daughter, Gaby.
+* [**Daddy and Me** <kbd class="item-tag">KR</kbd> <i class="fa fa-external-link"></i>](https://dam.jongbin.com)\
+Weekend activities with my daughter, Gaby. (2017-2018)
 
-* **Decisions and Data** (WIP)<br \>
+* **Decisions and Data** (WIP)\
 Book focusing on the relationship between large-scale data analytics and expert-driven decision analysis.
 
 
