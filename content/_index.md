@@ -1,6 +1,6 @@
 +++
-title = "Jongbin"
-date = 2020-05-02
+title = "Jongbin Jung"
+date = 2022-10-07
 +++
 
 I believe in the power of simplicity and precision as tools for making better

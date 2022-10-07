@@ -1,6 +1,6 @@
 +++
 title = "Academic"
-date = 2018-03-21
+date = 2022-10-07
 +++
 
 [<kbd class="item-tag">Download CV</kbd>](https://www.dropbox.com/s/apoim64sd02lkmm/resume.pdf)
@@ -41,11 +41,15 @@ Complete list of academic publications via [Google scholar <i class="fa fa-exter
 
 ## Teaching
 
-1. Workshop for `python`: [<i class="fa fa-github"></i>](https://github.com/jongbinjung/css-python-workshop)\
+1. **Machine learning and decision making** [<kbd class="item-tag">KR</kbd>](https://fastcampus.co.kr/data_red_jjb) (2022)\
+[Online lecture](https://fastcampus.co.kr/data_red_jjb) series in Korean, focusing on applied statistics, machine learning, and introductory decision analysis.
+
+
+1. Workshop for `python`: [<i class="fab fa-github"></i>](https://github.com/jongbinjung/css-python-workshop)\
 Taught in Stanford Computational Social Science python and web scraping workshops, and quarterly tutorials for graduate students enrolled in
 [MS&E 231: Computational social science](https://5harad.com/mse231).
 
-1. `R` crash course: [<i class="fa fa-github"></i>](https://github.com/jongbinjung/r-tutorial)\
+1. `R` crash course: [<i class="fab fa-github"></i>](https://github.com/jongbinjung/r-tutorial)\
 Offered introductory one-day courses every quarter
 to Stanford undergraduates and graduates enrolled in
 [MS&E 125: Applied statistics](https://5harad.com/mse125),
